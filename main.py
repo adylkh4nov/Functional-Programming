@@ -1,3 +1,5 @@
+import datetime
+print(datetime.date.today())
 print("Введите имя")
 data = str(input())
 print("Введите возраст")
