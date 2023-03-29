@@ -11,3 +11,4 @@ def Smoke(data):
         print(f"{data} Ты не можешь курить")
 
 Smoke(data)
+print("Olzhas")
